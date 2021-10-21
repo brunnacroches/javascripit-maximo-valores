@@ -1,2 +1,2 @@
-# javascripit-maximo-valores
-javascripit-maximo-valores
+# javascript-maximo-valores
+javascript-maximo-valores
